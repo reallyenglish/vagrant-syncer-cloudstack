@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Tomoyuki Sakurai"]
   spec.email         = ["tomoyukis@reallyenglish.com"]
 
-  spec.summary       = "sync virtual machine states on remote cloudstack"
-  spec.description   = "sync virtual machine states on remote cloudstack"
+  spec.summary       = "Sync virtual machine states on remote cloudstack"
+  spec.description   = "Sync virtual machine states on remote cloudstack"
   spec.homepage      = "https://github.com/reallyenglish/#{spec.name}"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the
